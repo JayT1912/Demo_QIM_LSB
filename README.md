@@ -29,11 +29,12 @@ Dự án này sử dụng phương pháp **QIM (Quantization Index Modulation)**
    - **`input.wav`** là tệp âm thanh gốc, trong đó thông điệp sẽ được giấu.
    - **`output_audio.wav`** là tệp âm thanh mới sau khi thông điệp đã được giấu vào.
 
+##Giao diện
+   - Đang hoàn thiện.
+
 ## Cài Đặt
 
 Để chạy dự án này, bạn cần cài đặt các thư viện Python sau:
 
 ```bash
 pip install librosa numpy soundfile matplotlib
-
-```Đang hoàn thiện giao diện
