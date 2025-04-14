@@ -35,3 +35,5 @@ Dự án này sử dụng phương pháp **QIM (Quantization Index Modulation)**
 
 ```bash
 pip install librosa numpy soundfile matplotlib
+
+```Đang hoàn thiện giao diện
